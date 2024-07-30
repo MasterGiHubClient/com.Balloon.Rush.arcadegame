@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{DFD549D3-D704-F5D4-21E9-C663C3D9A7B1}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7fae531d-e5ad-4f43-8e74-700a4b4d7805" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Levels.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LevelButton.cs" />
+      <File FileName="Assets/Scripts/Loader.cs" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/Heart.cs" />
+      <File FileName="Assets/Scripts/Game.cs" />
+      <File FileName="Assets/Scripts/End.cs" />
+      <File FileName="Assets/Plugins/Android/AndroidManifest.xml" />
+      <File FileName="Assets/Scripts/Levels.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.Balloon.Rush.arcadegame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name="Android" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Levels.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
